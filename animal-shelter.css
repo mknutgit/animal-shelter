@@ -1,0 +1,20 @@
+.column {
+  width: 20%;
+  float: left;
+  border: 1px solid black;
+}
+img {
+  max-width: 90%;
+}
+h3.turtle {
+  color: blue;
+}
+h3.cat {
+  background-color: blue;
+}
+h3.dog {
+  font-size: px;
+}
+h3.horse {
+
+}
